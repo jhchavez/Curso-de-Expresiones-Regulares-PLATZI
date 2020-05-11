@@ -1,0 +1,51 @@
+1
+12
+123
+1234
+12345
+12345678910
+12345678910a
+13453243
+url: https://www.instagram.com/p/BXB4zsUlW5Z/?taken-by=beco.mx
+url: http://instagram.com/p/blablablah
+url: http://itam.mx/test
+http://instagram.com/p/blablablah
+csv1, csv2, csv3, csv4, csv5
+Rodrigo Jiménez Gutiérrez
+5556581111
+56-58-11-12
+302-345-9876
+esto.es.un.mail+gmail@mail.com
+dominio.com
+[ENTRADA DE REGISTRO] [ERROR] El sistema es inestable
+[ENTRADA DE REGISTRO] [AVISO] El sistema puede estar inactivo
+[ENTRADA DE REGISTRO] [REGISTRO] Todo está bien
+[ENTRADA DE REGISTRO] [REGISTRO] [usuario: @beco] Conectado
+[ENTRADA DE REGISTRO] [REGISTRO] [usuario: @beco] Haga clic aquí
+[LOG ENTRY] [LOG] [usuario: @beco] Calificó la aplicación
+[ENTRADA DE REGISTRO] [REGISTRO] [usuario: @beco] Desconectado
+
+
+{% comment %} Las búsquedas en las expresiones regulares funcionan en múltiplos de la cantidad de caracteres que explícitamente indicamos. 
+
+ 
+
+\d mostrar dígitos  
+
+\d\d\d muestra dígitos en  múltiplos de 3 
+
+ 
+
+\w encuentra todo lo que pueda ser una palabra menos (: \ . @ + -), solo incluye de la A a la Z en mayúsculas y minúsculas, _, dígitos. 
+
+ 
+
+\s muestra espacios 
+
+ 
+
+[0-9] números  (esto es una clase entre corchetes) 
+
+ 
+
+[a-zA-Z0-9_] esta clase equivale a \w  {% endcomment %}
