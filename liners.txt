@@ -37,3 +37,12 @@ dominio.com
 \s muestra espacios 
 [0-9] números  (esto es una clase entre corchetes) 
 [a-zA-Z0-9_] esta clase equivale a \w  {% endcomment %}
+
+
+reto
+555658 
+56-58-11 
+56.58.11 
+56.78-98 
+65 09 87 
+76y87r98 
