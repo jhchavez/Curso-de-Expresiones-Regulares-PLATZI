@@ -12,3 +12,4 @@
 .+?[,\n]{1,1} El ? indica al patrón que encuentre las coincidencias de manera rápida (o greedy)
 [^0-5a-c ] ^negacion de la clase o de la busqueda
 \d{2,2}[^a-zA-Z] reto escoger caracteres que no esten separados por letras
+^\d{3,25}$ inicicio y final de linea
