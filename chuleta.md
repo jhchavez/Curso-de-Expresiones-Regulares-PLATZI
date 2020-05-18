@@ -10,3 +10,4 @@
 {4,10} cantidad de caracteres a buscar, es decir logitud Minimo y maxima
 \d{2,2}[\-\.]? numeros telefonicos con diferentes formatos
 .+?[,\n]{1,1} El ? indica al patrón que encuentre las coincidencias de manera rápida (o greedy)
+[^0-5a-c ] ^negacion de la clase o de la busqueda
