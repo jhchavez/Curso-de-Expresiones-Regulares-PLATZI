@@ -18,7 +18,7 @@ Rodrigo Jiménez Gutiérrez
 5556581111
 56-58-11-12-54
 56.58.11.12.54
-302-345-9876
+302-345-987
 esto.es.un.mail+gmail@mail.com
 dominio.com
 [ENTRADA DE REGISTRO] [ERROR] El sistema es inestable
@@ -45,4 +45,10 @@ reto
 56.58.11 
 56.78-98 
 65 09 87 
+65-09-87#123 
 76y87r98 
+552560p123
+552560e123
++521565811
+
+NOTA:[#pe]?\d*$
