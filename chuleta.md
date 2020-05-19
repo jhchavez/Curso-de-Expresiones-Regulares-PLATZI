@@ -13,6 +13,8 @@
 [^0-5a-c ] ^negacion de la clase o de la busqueda
 \d{2,2}[^a-zA-Z] reto escoger caracteres que no esten separados por letras
 ^\d{3,25}$ inicicio y final de linea
-^\[LOG.*\[LOG\].*user:@\w+7\].*$ buscar en Logs 
+^\[LOG.*\[LOG\].*user:@\w+7\].*$ buscar Logs 
 ^\+?\d{2,3}[^\da-z]? telefonos 
 https?:\/\/[\w\-\.]+\.\w{2,5}\/?\S* urls
+[\w\._]{5,30}\+?[\w]{0,10}@[\w\.\-]{3,}\.\w{2,5} mails
+[\w\._]{5,30}\+?[\w]{0,10}@[^\d][\w\.\-]{3,}\.\w{2,5}
