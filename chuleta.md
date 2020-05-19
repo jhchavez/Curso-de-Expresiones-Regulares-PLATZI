@@ -15,3 +15,4 @@
 ^\d{3,25}$ inicicio y final de linea
 ^\[LOG.*\[LOG\].*user:@\w+7\].*$ buscar en Logs 
 ^\+?\d{2,3}[^\da-z]? telefonos 
+https?:\/\/[\w\-\.]+\.\w{2,5}\/?\S* urls
