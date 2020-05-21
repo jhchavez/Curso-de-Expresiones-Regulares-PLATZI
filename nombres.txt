@@ -1,0 +1,43 @@
+Luciana Rodríguez Castro
+Santiago Martínez Gutiérrez
+Salomé González Vargas
+Matías García Ortíz
+Isabella López Moreno
+Samuel Gómez Jiménez
+Mariana Hernández Rojas
+Jerónimo Pérez Muñoz
+Gabriela Sánchez Torres
+Emmanuel Díaz Ramírez
+Mariangel Ramírez Díaz
+Emiliano Torres Sánchez
+Valentina Muñoz Pérez
+Maximiliano Rojas Hernández
+Antonella Jiménez Gómez
+Mathias Moreno López
+Samantha Ortíz García
+Sebastián Vargas González
+Valeria Gutiérrez Martínez
+Martín Castro Rodríguez
+María José Rodríguez Castro
+Dulce María Martínez Gutiérrez
+Sara Sofía González Vargas
+Luisa Fernanda García Ortíz
+Sara Valentina
+María Fernanda García Ortíz
+Ana Sofía García Ortíz
+Ana Lucía González Vargas
+María Camila Ortíz García
+María Alejandra Ramírez Díaz
+Juan José Vargas González
+Miguel Angel Muñoz Pérez
+Juan Sebastián Ramírez Díaz
+Juan David Díaz Ramírez
+Samuel David Vargas González
+Juan Pablo López Moreno
+Andrés Felipe Muñoz Pérez
+Juan Esteban García Ortíz
+Juan Diego Muñoz Pérez
+Angel David López Moreno
+Ef3afga Easfgeas Eefe Enfle
+Éf3afga Easfgeas Eefe Enfle
+^[A-Z][a-zá-ú]{2,}\s?[A-Z]?[a-zá-ú]{2,}\s?[A-Z]?[a-zá-ú]{2,}\s?[A-Z]?[a-zá-ú]{2,}$
