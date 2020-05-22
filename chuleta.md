@@ -21,3 +21,5 @@ https?:\/\/[\w\-\.]+\.\w{2,5}\/?\S* urls
 \-?\d{1,3}\.\d{1,6},\-?\d{1,3}\.\d{1,6},.*$ coordenadas
 ^[A-Z][a-z]{3,}\s?[A-Z]?[a-z]{0,}.* nombres
 ^\d+::([\w\s:,\(\)'\.\-&!\/]+)\s\(\d\d\d\d\)::.*$ movies
+[\?$](\w+)=([^&\n]+).* descomponer queries
+--   $1 => $2
